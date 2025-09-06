@@ -1,0 +1,72 @@
+{
+  "navigation": {
+    "home": "होम",
+    "products": "उत्पाद",
+    "cart": "कार्ट", 
+    "orders": "ऑर्डर",
+    "profile": "प्रोफ़ाइल",
+    "login": "लॉग इन",
+    "signup": "साइन अप",
+    "logout": "लॉग आउट"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "save": "सेव करें",
+    "cancel": "रद्द करें", 
+    "delete": "डिलीट",
+    "edit": "संपादित करें",
+    "search": "खोजें",
+    "filter": "फिल्टर"
+  },
+  "products": {
+    "addProduct": "उत्पाद जोड़ें",
+    "myListings": "मेरी लिस्टिंग",
+    "productDetails": "उत्पाद विवरण",
+    "price": "कीमत",
+    "condition": "स्थिति",
+    "ecoScore": "इको स्कोर",
+    "seller": "विक्रेता",
+    "category": "श्रेणी",
+    "description": "विवरण"
+  },
+  "cart": {
+    "cart": "कार्ट",
+    "addToCart": "कार्ट में जोड़ें",
+    "checkout": "चेकआउट"
+  },
+  "orders": {
+    "orders": "ऑर्डर",
+    "orderHistory": "ऑर्डर इतिहास",
+    "orderDetails": "ऑर्डर विवरण"
+  },
+  "messages": {
+    "messages": "संदेश",
+    "makeOffer": "ऑफर दें",
+    "acceptOffer": "स्वीकार करें",
+    "rejectOffer": "अस्वीकार करें"
+  },
+  "auth": {
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "username": "उपयोगकर्ता नाम",
+    "fullName": "पूरा नाम",
+    "login": "लॉग इन",
+    "signup": "साइन अप"
+  },
+  "eco": {
+    "sustainabilityScore": "स्थिरता स्कोर",
+    "ecoFriendly": "पर्यावरण अनुकूल",
+    "sustainable": "टिकाऊ"
+  },
+  "status": {
+    "available": "उपलब्ध",
+    "sold": "बेचा गया",
+    "pending": "लंबित",
+    "confirmed": "पुष्ट",
+    "shipped": "भेज दिया गया",
+    "delivered": "डिलीवर किया गया"
+  }
+}

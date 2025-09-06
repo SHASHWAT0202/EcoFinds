@@ -1,0 +1,72 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Products", 
+    "cart": "Cart",
+    "orders": "Orders",
+    "profile": "Profile",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter"
+  },
+  "products": {
+    "addProduct": "Add Product",
+    "myListings": "My Listings", 
+    "productDetails": "Product Details",
+    "price": "Price",
+    "condition": "Condition",
+    "ecoScore": "Eco Score",
+    "seller": "Seller",
+    "category": "Category",
+    "description": "Description"
+  },
+  "cart": {
+    "cart": "Cart",
+    "addToCart": "Add to Cart",
+    "checkout": "Checkout"
+  },
+  "orders": {
+    "orders": "Orders",
+    "orderHistory": "Order History",
+    "orderDetails": "Order Details"
+  },
+  "messages": {
+    "messages": "Messages",
+    "makeOffer": "Make Offer",
+    "acceptOffer": "Accept",
+    "rejectOffer": "Reject"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "fullName": "Full Name",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "eco": {
+    "sustainabilityScore": "Sustainability Score",
+    "ecoFriendly": "Eco Friendly",
+    "sustainable": "Sustainable"
+  },
+  "status": {
+    "available": "Available",
+    "sold": "Sold",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "shipped": "Shipped", 
+    "delivered": "Delivered"
+  }
+}
