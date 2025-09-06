@@ -90,4 +90,4 @@ Write-Host "3. Alternative - Start servers separately:" -ForegroundColor Yellow
 Write-Host "   - Backend: npm run dev:backend"
 Write-Host "   - Frontend: npm run dev:frontend"
 Write-Host ""
-Write-Host "Happy coding! 🚀" -ForegroundColor Green
+Write-Host "Happy coding! 🚀" - ForegroundColor Green
